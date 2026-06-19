@@ -1,5 +1,3 @@
-English | [简体中文](./README_zh-CN.md)
-
 # dva
 
 [![codecov](https://codecov.io/gh/dvajs/dva/branch/master/graph/badge.svg)](https://codecov.io/gh/dvajs/dva)
